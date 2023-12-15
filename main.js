@@ -55,20 +55,20 @@ console.log(metaDataProduct(input));
 /*
 [
   [
-    { trait_type: 'Earring', value: 'gold' },
+    { trait_type: 'Earring', value: 'Gold' },
     { trait_type: 'Grin', value: 'Crooked' }
   ],
   [
-    { trait_type: 'Earring', value: 'gold' },
-    { trait_type: 'Grin', value: 'toothy' }
+    { trait_type: 'Earring', value: 'Gold' },
+    { trait_type: 'Grin', value: 'Toothy' }
   ],
   [
-    { trait_type: 'Earring', value: 'silver' },
+    { trait_type: 'Earring', value: 'Silver' },
     { trait_type: 'Grin', value: 'Crooked' }
   ],
   [
-    { trait_type: 'Earring', value: 'silver' },
-    { trait_type: 'Grin', value: 'toothy' }
+    { trait_type: 'Earring', value: 'Silver' },
+    { trait_type: 'Grin', value: 'Toothy' }
   ]
 ]
 */
